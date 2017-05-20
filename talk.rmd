@@ -28,6 +28,8 @@ http://illposed.net
 ##  {data-background="third_man.jpg"}
 -->
 
+##  {data-background="sundial.jpg"}
+
 ##  {data-background="nosferatu.png"}
 
 ##  {data-background="ipod.gif"}
