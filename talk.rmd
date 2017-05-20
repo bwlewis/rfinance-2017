@@ -95,9 +95,11 @@ http://arxiv.org/abs/1512.07246
 1,000 &times; 20,522 matrix, find all pairs of columns with Pearson's correlation coefficient ≥ 0.99.
 
 - brute force needs > 200 GFlops
-- tcor solves exactly the same problem using about 1 GFlop _(in seconds on a laptop)_
+- tcor solves exactly the same problem using about 1 GFlop<sup>1</sup> _(in seconds on a laptop)_
 - easily extends to distributed and arbitrarily large data
 
+<br/>
+<font style="font-size: 24pt;"><sup>1</sup>For the data matrix described in the package vingette</font>
 
 ## Recall, point of view matters
 
@@ -244,9 +246,6 @@ top$hubs
 
 Cool algorithm by Cai, Cand&egrave;s, Shen,
 prototype: https://github.com/bwlewis/rfinance-2017/svt.r
-
-<br/>
-Input matrix M with missing values except in index set P.
 
 ##
 
