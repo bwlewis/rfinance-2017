@@ -286,9 +286,7 @@ $$ \min \frac{1}{p}||X\beta - y||^p_p + \frac{\mu}{q}||\Phi(\beta)||^q_q $$
 
 <br/>
 
-q = 1 (Lasso) _and_ q < 1 (closer to subset selection!)
-
-##  {data-background="kid.jpg"}
+q = 1 (Lasso) _and_  0 < q < 1 (closer to optimal subset selection!)
 
 ## Projection methods turn big data into data
 
