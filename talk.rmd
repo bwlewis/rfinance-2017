@@ -278,7 +278,7 @@ $$ \min\,\,||X||_* \,\,\mathrm{s. t.}\,\, X_P = M_P $$
 ##
 
 <br/><br/>
-Generalized Krylov subspaces  (Voss, Lanza, Morigi, Reichel, Sgallari, ...) to solve
+Use generalized Krylov subspaces  (Voss, Lanza, Morigi, Reichel, Sgallari, ...) to solve
 
 <br/><br/>
 
@@ -286,7 +286,7 @@ $$ \min \frac{1}{p}||X\beta - y||^p_p + \frac{\mu}{q}||\Phi(\beta)||^q_q $$
 
 <br/>
 
-q = 1 (Lasso) _and_  0 < q < 1 (closer to optimal subset selection!)
+q = 1 (Lasso) _and_  0 < q < 1 (closer to subset selection!)
 
 ## Projection methods turn big data into data
 
