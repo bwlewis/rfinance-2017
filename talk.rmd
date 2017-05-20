@@ -84,6 +84,8 @@ The *tcor* algorithm: fast thresholded distances and correlations.
 <br/>
 https://github.com/bwlewis/tcor
 
+<br>
+http://arxiv.org/abs/1512.07246
 
 ## Example
 
