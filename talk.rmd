@@ -52,7 +52,7 @@ http://illposed.net
 
 <br/><br/><br/>
 
-<font style="font-size: 96px; color: black;">Shadows of Data</font>
+<font style="font-size: 96px; color: black;">Data Shadows</font>
 
 
 ##
