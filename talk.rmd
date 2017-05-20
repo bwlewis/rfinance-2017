@@ -94,15 +94,6 @@ https://github.com/bwlewis/tcor
 - tcor solves exactly the same problem using about 1 GFlop _(in seconds on a laptop)_
 - easily extends to distributed and arbitrarily large data
 
-##
-
-<br/><br/><br/>
-
-*"Information << Data"*
-<br/>
-<hr/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&mdash;Michael Wu
-
 
 ## Recall, point of view matters
 
