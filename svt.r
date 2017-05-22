@@ -48,7 +48,7 @@ x = svt(M)
 cat("Relative error ||X - Mtrue||_F / ||Mtrue||_F :\n")
 print(norm(Mtrue - x$X, "F") / norm(Mtrue, "F"))
 sd = svd(Mtrue)$d
-xd = svd(s$X)$d
+xd = svd(x$X)$d
 
 plot(sd)
 lines(xd)
