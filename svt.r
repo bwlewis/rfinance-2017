@@ -52,3 +52,4 @@ xd = svd(x$X)$d
 
 plot(sd)
 lines(xd)
+legend("topright", legend=c("true singular values", "imputed values"), pch=c("o", "lines"))
