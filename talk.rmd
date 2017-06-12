@@ -245,7 +245,7 @@ top$hubs
 <br/><br/>
 
 Cool algorithm by Cai, Cand&egrave;s, Shen,
-prototype: https://github.com/bwlewis/rfinance-2017/svt.r
+prototype: https://github.com/bwlewis/rfinance-2017/blob/master/svt.r
 
 ##
 
